@@ -43,7 +43,7 @@ const About = () => {
             </motion.span>
           </div>
           <h4 className="bold-28 uppercase text-center xl:text-start py-4">
-            HOLA! MY NAME IS KYOMI SHAYNALA!
+            HOLA! MY NAME IS ERLAN!
           </h4>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt a
